@@ -17,6 +17,7 @@ o	Menggunakan askopenfilename() untuk memilih file CSV yang ingin diproses.
 o	Menggunakan askdirectory() untuk memilih folder tempat file hasil pembagian akan disimpan.
 3.	Penyimpanan File Hasil:
 o	Setiap bagian data disimpan dalam file CSV di folder yang dipilih, dengan nama customer_data_part_1.csv, customer_data_part_2.csv, dan seterusnya.
+
 **Cara Kerja:**
 1.	Program akan meminta Anda memilih file CSV yang ingin dibagi.
 2.	Setelah itu, Anda akan diminta memilih folder untuk menyimpan file hasil.

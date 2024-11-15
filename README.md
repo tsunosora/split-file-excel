@@ -10,7 +10,7 @@ Pastikan file CSV Anda berada di lokasi yang benar, dan sesuaikan file_path jika
 3. File kemudian akan dibagi menjadi beberapa bagian (200 data per file) dan disimpan sebagai file CSV baru.
 4. Hasilnya akan berupa file CSV yang dinamai customer_data_part_1.csv, customer_data_part_2.csv, dan seterusnya.
 
-Penjelasan Penambahan Pilih Output File:
+**Penjelasan Penambahan Pilih Output File**:
 1.	Pemilihan File Input:
 o	Menggunakan askopenfilename() untuk memilih file CSV yang ingin diproses.
 2.	Pemilihan Direktori Export:
